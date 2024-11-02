@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 OPR/113.0.0.0" version="24.8.3">
+  <diagram name="Page-1" id="ujPhaZU5adk_P772nVWr">
+    <mxGraphModel dx="1062" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ThmEXXsb4qY9vdl3tFc--3" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=40;" vertex="1" parent="1">
+          <mxGeometry x="250" y="30" width="20" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="ThmEXXsb4qY9vdl3tFc--8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ThmEXXsb4qY9vdl3tFc--3">
+          <mxGeometry x="5" y="60" width="10" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="ThmEXXsb4qY9vdl3tFc--4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Репетитор&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ThmEXXsb4qY9vdl3tFc--5" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Календарь приложения&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="340" y="30" width="100" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="ThmEXXsb4qY9vdl3tFc--11" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ThmEXXsb4qY9vdl3tFc--5">
+          <mxGeometry x="45" y="90" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ThmEXXsb4qY9vdl3tFc--17" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ThmEXXsb4qY9vdl3tFc--5">
+          <mxGeometry x="45" y="280" width="10" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ThmEXXsb4qY9vdl3tFc--6" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Веб-сервер&lt;/font&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="480" y="30" width="100" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="ThmEXXsb4qY9vdl3tFc--12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ThmEXXsb4qY9vdl3tFc--6">
+          <mxGeometry x="45" y="100" width="10" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="ThmEXXsb4qY9vdl3tFc--7" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;Google API&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="610" y="30" width="100" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="ThmEXXsb4qY9vdl3tFc--14" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="ThmEXXsb4qY9vdl3tFc--7">
+          <mxGeometry x="45" y="160" width="10" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ThmEXXsb4qY9vdl3tFc--10" value="Создать событие" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="ThmEXXsb4qY9vdl3tFc--11">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="266" y="140" as="sourcePoint" />
+            <mxPoint x="370" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ThmEXXsb4qY9vdl3tFc--13" value="Время, название, &lt;br&gt;участники" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="395" y="166" as="sourcePoint" />
+            <mxPoint x="525" y="166" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ThmEXXsb4qY9vdl3tFc--15" value="Создание события с &lt;br&gt;Google Meet ссылкой" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="535" y="218" as="sourcePoint" />
+            <mxPoint x="655" y="218" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ThmEXXsb4qY9vdl3tFc--16" value="Информация о &lt;br&gt;созданном событии" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="655" y="264" as="sourcePoint" />
+            <mxPoint x="535" y="264" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ThmEXXsb4qY9vdl3tFc--19" value="parallel" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="290" width="510" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ThmEXXsb4qY9vdl3tFc--21" value="Письмо подтверждения" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="655" y="327" as="sourcePoint" />
+            <mxPoint x="265" y="327" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ThmEXXsb4qY9vdl3tFc--22" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=-0.002;exitY=0.446;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.997;entryY=0.446;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="169.9799999999998" y="370.28" as="sourcePoint" />
+            <mxPoint x="679.47" y="370.28" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ThmEXXsb4qY9vdl3tFc--23" value="Ссылка Google Meet" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="525" y="416" as="sourcePoint" />
+            <mxPoint x="395" y="416" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
